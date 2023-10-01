@@ -1,34 +1,5 @@
 {
     "items": [
-        {
-            "description": "asd",
-            "quantity": "5",
-            "packed": false,
-            "id": 1696173341955
-        },
-        {
-            "description": "bag",
-            "quantity": "5",
-            "packed": true,
-            "id": 1696187350375
-        },
-        {
-            "description": "tissue",
-            "quantity": 1,
-            "packed": false,
-            "id": 1696187356219
-        },
-        {
-            "description": "perfue",
-            "quantity": "1",
-            "packed": false,
-            "id": 1696187654870
-        },
-        {
-            "description": "job",
-            "quantity": 1,
-            "packed": false,
-            "id": 1696187658009
-        }
+        
     ]
 }
