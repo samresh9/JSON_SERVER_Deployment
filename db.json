@@ -1,5 +1,22 @@
 {
     "items": [
-        
+      {
+        "description": "book",
+        "quantity": "1",
+        "packed": false,
+        "id": 1696249719692
+    },
+    {
+        "description": "pants",
+        "quantity": 3,
+        "packed": false,
+        "id": 1696249727306
+    },
+    {
+        "description": "earphone",
+        "quantity": 1,
+        "packed": false,
+        "id": 1696249750632
+    }   
     ]
 }
